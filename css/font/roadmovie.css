@@ -1,1 +1,1 @@
-@font-face {font-family: 'Road Movie';src: url("{{" /css/font/roadmovie.ttf" | prepend: site.baseurl }}"') format('truetype');}
+@font-face {font-family: roadmovie ;src: url("{{" /css/font/roadmovie.ttf" | prepend: site.baseurl }}"') format('truetype');}

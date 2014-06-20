@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Coders Presentation"
+date: 2014-06-16 12:13:00
+categories: jekyll update
+---
+Today Jekyll was used to transform our repository into a blog, essentially providing the blog template.
+
+The rest of the day was spent understanding the jekyll template and then adding Twitter bootstrap (so called because it was built by twitter.)
+
+Bootstrap provides an HTML, css, javascript framework that you can use as a baseis for creatign web sites or web applications. It contains templates of HTML and CSS for typography, forms, buttons, navigation and other interface components.
+
+<img src = "http://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="100" height="100" />

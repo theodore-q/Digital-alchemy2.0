@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Coders Presentation"
+date: 2014-06-16 12:13:00
+categories: jekyll update
+---
+Day3
+Today we worked on adding widgets to the blog for twitter, google maps and instagram.
+
+Also making modifications to the structure/ template of the blog
+
+
+adding in twitter links and modifying
+

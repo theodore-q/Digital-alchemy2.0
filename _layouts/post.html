@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+<div class="col-md-6 col-md-offset-1">
 
-html 
 <div class="post">
 
   <header class="post-header">
@@ -10,73 +10,10 @@ html
     <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
  
-
-
   <article class="post-content">
   {{ content }}
   </article>
- 
-  
-  
-</div>
-!DOCTYPE html>
-<html lang= "en">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<div class="container-fluid">
-<!-- Stack the columns on mobile by making one full-width and the other half-width -->
-<div class="row">
-	<div class = "row-fluid"
-	   <div class="span12">
-
-         <div class="col-md-6 col-md-offset-1">{{Day}}
-         </div> 
-     </div>
-     </div>
-    <div class="col-md-6 col-md-offset-1">Date
-         </div>
-
-       </div> 
-       </div>
-
-<div class="row">
-  <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
-  <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
-   </div> 
-
-			<div class="row-fluid">
-				<div class="span12">
-
-					<div class "row-fluid">
-						<div class="span4">
-						<img class = "img-responsive img-circle" src="https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-xpf1/t1.0-0/10411335_10152491821382534_2769362763743282133_t.jpg">
-						</div>
-
-     <div class = "row-fluid" >
-     	<div class="span12">
-     		<div class "row-fluid">
-     			<div class =span4>
-
-
-<div class="form-group comment-form-author">
-  <label for="author">' . __( 'Name' ) . ( $req ? ' <span class="required">*</span>' : '' ) . </label>
-                    <input class="form-control" id="author" name="author" type="text" value="' . esc_attr( $commenter['comment_author'] ) . '" size="30"' . $aria_req . ' /></div>
-       
-<div class="form-group comment-form-email"><label for="email">' . __( 'Email' ) . ( $req ? ' <span class="required">*</span>' : '' ) . '</label> ' .
-                    
-  <input class="form-control" id="email" name="email" ' . ( $html5 ? 'type="email"' : 'type="text"' ) . ' value="' . esc_attr(  $commenter['comment_author_email'] ) . '" size="30"' . $aria_req . ' /></div>',
-        
-            'url'    => '<div class="form-group comment-form-url"><label for="url">' . __( 'Website' ) . '</label> ' .
-                    '<input class="form-control" id="url" name="url" ' . ( $html5 ? 'type="url"' : 'type="text"' ) . ' value="' . esc_attr( $commenter['comment_author_url'] ) . '" size="30" /></div>',
-
-            <button class="btn btn-default" type="submit">' . __( 'Submit' ) . '</button>';
-}
-
-       <div class = "col-md-6 col-md-offset-1" >
-         {{content}}
-       </div>
+  <a href="https://twitter.com/share" class="twitter-share-button" data-via="Founders_coders" data-hashtags="foundersandcoders">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   </div>
 </div>
-        </html>
-

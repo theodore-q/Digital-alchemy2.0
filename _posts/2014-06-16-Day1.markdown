@@ -1,0 +1,63 @@
+---
+layout: posts
+title: "Coders Presentation"
+date: 2014-06-16 12:13:00
+categories: jekyll update
+---
+
+The new cohort of 16 excited eagar future coders arrive at 10 am to what will be our home for the next 7 weeks: located on the basement floor of one of Camden collective’s pop up shops on camden highstreet, I wasn’t sure what to expect. Turned out the basement location consists of a nice room complete with a chelsea fringe garden!
+
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="main.css" />
+		<title>My Photo Page</title>
+	</head>
+<body>
+
+	   <table>
+	   	    <thead>
+	     <th>The Chelsea Fringe Garden</th>
+	    </thead>
+	      <tbody>
+         	<tr>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa1s_9IAAEr7jr.jpg" width="130" height="130" /> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa3nUMIIAAxQRB.jpg" width="130" height="130"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa4SzbIEAMLMLS.jpg" width="130" height="130"/> </td>
+          <td> <img class="garden" src = "https://pbs.twimg.com/media/Bqa3dVvIAAAH9O7.jpg" width="130" height="130"/> </td>
+          </tr>
+ 	      </tbody>
+	
+	   </table>
+     
+	</body>
+</html>
+
+After introductory talks , from which the most important lesson was:
+
+      The first rule of Code Academy is "Don't be an arse"...as is the second rule and the third
+
+
+Now feeling as though we were members of an underground coding club we were ready to begin.
+
+First Dan (the course leader) split us into teams of 4, within which we would be working on 7 projects for the next 7 weeks. Then we were treated to a seriously good barbeque coutesy of [1] : http://www.lesgreedycochons.co.uk/ "Les Greedy Cochons"  this unforutunately was not to be a daily occurence!
+
+After lunch it was time to get started! The first project was to build a blog using Github Pages (said blog you are now currently reading!) on which we are going to share our experiences over the next 7 weeks at founders and coders.
+
+####Getting started on building the blog####
+
+We had to get to grips with a range of new software and technical terms: topics were
+
+- Internet & web 
+- Development environments 
+- Command Line 
+- Git and Github 
+- Github pages
+- Jekyll and markdown 
+- Html and Css 
+- CSS Frameworks 
+- Social media
+
+
+We used Github to build the Blog. Github is sort of like a social networking site for programmers where code can be shared. It is a web-based hosting service that publishes projects such as blogs. We had to sign up to github online. Then we created a central repository that we could all collaborate on. To add changes to the blog you have to clone the whole repository to your own system: using git clone "url" , in the text editor of your choice (e.g nitrous or using git on your local machine). Then you make changes on your local copy and proceed to "git pull" , "git commit" and "git push" the edits up to the central server. 
+
+![alt text](https://raw.githubusercontent.com/leochilds/leodev/gh-pages/images/Everyone.jpg)

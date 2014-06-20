@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-    <body style = "background-color:#aadbdb;">
+    <body>
 
     {% include header.html %}
 <div class = "container">
@@ -13,16 +13,16 @@
       {% include title.html %}
     </div>
     
-    <div class = "col-md-2 col-md-offset-1">
+    <div class = "col-md-3 col-md-offset-1">
         <div class="btn-group">
           <a class="btn btn-default" href="#">
-            <i class="fa fa-facebook-square"></i>
+            <span class="fa fa-align-left"></span>
           </a>
           <a class="btn btn-default" href="#">
-            <i class="fa fa-facebook-square"></i>
+            <span class="fa fa-align-center"></span>
           </a>
           <a class="btn btn-default" href="#">
-            <i class="fa fa-facebook-square"></i>
+            <span class="fa fa-align-right"></span>
           </a>
         </div>
     </div>
@@ -34,7 +34,7 @@
         <div style=" background-color:#aadbdb;" class = "col-md-2"
              {% include leftsidebar.html %}
         </div>
-        <div style = "background-color:#f3f0ec;">
+        <div>
               {{ content }}
         </div>
         <div class = "col-md-2 col-md-offset-1"

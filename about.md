@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: onecolumn
 title: About
 permalink: /about/
 ---

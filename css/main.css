@@ -466,13 +466,3 @@ a:visited { color: #205caa; }
   }
 }
 /* ---            nav bar colour change test             --- */
-
-/*---font---*/
-@font-face {
-    font-family: roadmovie;
-  src: url("{{"/css/font/roadmovie.ttf" | prepend: site.baseurl }}");
-    font-weight:400;
-}
-h1 {
-    font-family: roadmovie, serif;
-}

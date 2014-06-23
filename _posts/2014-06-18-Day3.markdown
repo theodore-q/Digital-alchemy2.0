@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 3"
-date: 2014-06-16 12:13:00
+date: 2014-06-18 12:13:00
 categories: jekyll update
 ---
 Day3
@@ -10,4 +10,4 @@ Today we worked on adding widgets to the blog for twitter, google maps and insta
 Also making modifications to the structure/ template of the blog
 
 
-We had a guest speaker, Greg Tebbutt ( a previous founder and coders grad ) who told us about his company [1]: http://www.sparrho.com/ "Sparrho" where he currently works and the decisions that got him there. Thanks Greg!
+We had a guest speaker, Greg Tebbutt ( a previous founder and coders grad ) who told us about his company [1](http://www.sparrho.com/ "Sparrho") where he currently works and the decisions that got him there. Thanks Greg!

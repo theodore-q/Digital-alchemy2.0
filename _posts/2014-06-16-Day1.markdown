@@ -39,7 +39,7 @@ After introductory talks , from which the most important lesson was:
 
 Now feeling as though we were members of an underground coding club we were ready to begin.
 
-First Dan (the course leader) split us into teams of 4, within which we would be working on 7 projects for the next 7 weeks. Then we were treated to a seriously good barbeque coutesy of [1] : http://www.lesgreedycochons.co.uk/ "Les Greedy Cochons"  this unforutunately was not to be a daily occurence!
+First Dan (the course leader) split us into teams of 4, within which we would be working on 7 projects for the next 7 weeks. Then we were treated to a seriously good barbeque coutesy of [Les Greedy Cochons] (http://www.lesgreedycochons.co.uk/ "Les Greedy Cochons")  this unforutunately was not to be a daily occurence!
 
 After lunch it was time to get started! The first project was to build a blog using Github Pages (said blog you are now currently reading!) on which we are going to share our experiences over the next 7 weeks at founders and coders.
 

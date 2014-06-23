@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week 2 - Reflections from last week"
+date: 2014-06-23 13:00:00
+categories: jekyll update
+---
+<i>"Its the difference between hiring a mobile phone and building a hut."</i> - Theodore-q
+
+Having completed the first week of the course, the big question is how has everyone found it so far. Certainly everyone has found the week one task challenging, but thats the point. 
+
+A recurring theme is that the course is fun. Not normal fun, really fun. The tasks were difficult in nature and this led to a sense of pride in our work. Whilst before the course we became accustomed to using certain tools such as wordpress, we now have a basic yet fundamental knowledge of the web that allows us to start from scratch. To be able to begin with a blank page and produce this blog has been an achievement we are all proud of.
+
+We've found that with such basic knowledge in coding, the skills we have developed can be applied to a diverse group of possible projects. Had we learnt specific tasks or followed a rigid curriculum we would have learnt only specialists tasks which would have been difficult to transfer to other projects. 
+
+Very importantly, the course so far has filled in some canyon sized gaps in our knowledge of the web, and computer development in general.
+

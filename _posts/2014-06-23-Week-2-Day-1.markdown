@@ -4,7 +4,7 @@ title: "Week 2 - Reflections from last week"
 date: 2014-06-23 13:00:00
 categories: jekyll update
 ---
-<i>"Its the difference between hiring a mobile phone and building a hut."</i> - Theodore-q
+<i>"Its the difference between hiring a mobile home and building a hut."</i> - Theodore-q
 
 Having completed the first week of the course, the big question is how has everyone found it so far. Certainly everyone has found the week one task challenging, but thats the point. 
 

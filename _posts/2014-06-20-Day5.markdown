@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Day 5"
+date: 2014-06-16 12:13:00
+categories: jekyll update
+---
+
+Today we decided to essentially begin our blog from scratch in order to fix things.
+
+So things mostly looked a little like this all day: 
+
+![alt text](https://pbs.twimg.com/media/BqzSXUtCcAAG-B6.jpg)
+
+First a new repository was set up in Git Hub 
+--> GH page from the master one
+--> Adding the Jekyll to it: New Jekyll, digital alchemy
+--> Then add in the twitter bootstrap to the head to framework the css
+
+Then after much tweaking we launched our blog - which will continue to grow and become more amazing
+
+
+
+
